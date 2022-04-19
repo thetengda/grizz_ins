@@ -1,0 +1,12 @@
+//
+// Created by tdhuang on 2022/4/15.
+//
+
+#ifndef GRIZZ_INS_PLATFORM_H
+#define GRIZZ_INS_PLATFORM_H
+
+//enum {PLATFORM_LINUX,PLATFORM_WINDOWS,PLATFORM_STM32};
+
+#define PLATFORM_LINUX
+
+#endif //GRIZZ_INS_PLATFORM_H
