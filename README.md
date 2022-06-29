@@ -1,3 +1,3 @@
 # grizz_ins
-Pure Ins integrator, using increment
+Pure Ins integrator,  
 tested with high-precision dataset
